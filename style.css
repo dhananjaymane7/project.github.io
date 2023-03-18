@@ -1,0 +1,253 @@
+.navigation-bar{
+    width: 100%;
+    overflow: auto;
+}           
+.navigation-bar li
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    font-weight: 600;
+    
+}           
+h1{
+    font-size: 40px;
+    color: #B5CA15;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-content 
+{
+    margin-left: 730px;
+    margin-top: -70px;
+}
+.navigation-bar img
+{
+    width: 100px;
+    height: 80px;
+    margin-top: -30px;
+}
+.navigation-bar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size:24px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.navigation-bar input{
+    width: 160px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 10px;
+    font-weight: 600;
+    border: 2px solid black;
+}
+.navigation-bar ul li { 
+	padding: 0px 5px; 
+ } 
+#b2
+{
+    background-color: black;
+    color: white;
+   
+}
+.navigation-bar li:hover
+{
+    color: #B5CA15;
+}
+.navigation-bar input:hover
+{
+    width: 163px;
+    height: 41px;
+    font-size: 26px;
+    color: #B5CA15;
+}
+.title-part input{
+    width: 677px;
+    height: 59px;
+    font-size: 27px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 20px;
+    border: 2px solid #808080;
+    color: #B5CA15;
+    margin-left: 50px;
+   
+}
+.title-part h1
+{
+    color: black;
+    font-size: 65px;
+    margin-left: 90px;
+}
+.title-part h3{
+    color: #808080;
+   font-size: 23px;
+    margin-left: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title-part img
+{
+    width: 800px;
+    height: 452px;
+    margin-left: 950px;
+    border-radius: 20px;
+    margin-top: -400px;
+}
+.title-part button
+{
+    width: 261px;
+    height: 38px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-color: #B5CA15;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-left: 90px;
+    margin-top: -50px;
+}
+.under-part h1{
+    text-align: center;
+    color: black;
+    font-size: 34px;
+}
+.under-part img
+{
+  margin-left: 330px;
+}
+.next-page input
+{
+    color: #B5CA15;
+    font-size: 27px;
+    font-weight: 600;
+    border-radius: 20px;
+    width: 390px;
+    margin-top: 30px;
+    height: 60px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid #808080;
+    margin-left: 740px;
+}
+.next-page h1
+{
+    text-align: center;
+    color: black;
+
+}
+.next-page img
+{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.right-menu
+{
+    margin-left: 1050px;
+    margin-top: -440px;
+    text-align: center;
+    
+}
+.services{
+    margin-left: 90px;
+}
+.services img{
+  margin-left  : 100px;
+  width: 300px;
+  height: 230px;
+  cursor: pointer;
+  margin-bottom: 70px;
+}
+
+.below-part input
+{
+    color: #B5CA15;
+    font-size: 27px;
+    font-weight: 600;
+    border-radius: 20px;
+    width: 390px;
+
+    margin-top: 30px;
+    height: 60px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid #808080;
+    margin-left: 740px;
+}
+.below-part h1
+{
+    text-align: center;
+    color: black;
+
+}
+.below-part img
+{
+    margin-left: 100px;
+}
+.Reviews .upper-part
+{
+    background-color: #FFA1A0;
+    padding: 30px;
+}
+.Reviews .upper-part h1
+{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Reviews .upper-part h2
+{
+    font-size: 35px;
+    margin-left: 100px;
+    margin-top: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Reviews .upper-part img
+{
+    margin-left: 1100px;
+    margin-top: -200px;
+}
+.Reviews .upper-part input
+{
+   width: 252px;
+   height: 42px;
+   text-align: center;
+   font-size: 21px;
+   color: black;
+   border-radius: 15px;
+   border: 2px solid #808080;
+   font-weight: 600;
+   cursor: pointer;
+ 
+   background-color: #D9D9D9;
+
+}
+.Reviews .below-part input
+{
+    width: 550px;
+    height: 60px;
+    font-size: 24px;
+    cursor: pointer;
+    color: black;
+}
+.Reviews .below-part .left-side
+{
+    margin-left: -450px;
+    cursor: pointer;
+}
+.Reviews .below-part .right-side
+{
+    margin-left: 200px;
+    margin-top: -380px;
+}
+.Reviews
+{
+    margin-bottom: 50px;
+}
+
